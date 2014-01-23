@@ -1,7 +1,6 @@
 # Homework Instructions
-========
 
-**DUE: Monday, January 27, 11:59PM**
+**Due on Monday, January 27, 11:59PM**
 
 Fork this repository to your github account and clone it down to your local computer. Refer to the Week 1 homework for step-by-step instructions on forking and cloning <a
 href='https://github.com/mpcs52553/html-css/blob/master/README.md'>here</a>.
@@ -28,10 +27,14 @@ Implement the following rules into the dice game:
 
 Here's screenshots to help guide you through the user stories. 
 
-<img src='https://uchicago.s3.amazonaws.com/dice-01.png'>
-<img src='https://uchicago.s3.amazonaws.com/dice-02.png'>
-<img src='https://uchicago.s3.amazonaws.com/dice-03.png'>
-<img src='https://uchicago.s3.amazonaws.com/dice-04.png'>
+#### SCREENSHOT 1
+<img src='https://uchicago.s3.amazonaws.com/dice-01.png'><br />
+#### SCREENSHOT 2
+<img src='https://uchicago.s3.amazonaws.com/dice-02.png'><br />
+#### SCREENSHOT 3
+<img src='https://uchicago.s3.amazonaws.com/dice-03.png'><br />
+#### SCREENSHOT 4
+<img src='https://uchicago.s3.amazonaws.com/dice-04.png'><br />
 
 Use the following urls for photos of the dice:
 
@@ -59,9 +62,9 @@ Your code should:
 
 The grading rubric is as followed:
 
-* [2 pts] Show first page of instructions.
-* [3 pts] Let them roll the dice once to either instantly win (7 or  11), instantly win (2, 3, or 12), or establish the "goal" amount (anything other than 2, 3, 7, 11, or 12).
-* [4 pts] Let them keep rolling until they win or lose.
-* [1 pts] When the game is over, display whether they won or lost, and a link to let them start over.
+* <b>[2 pts]</b> Show first page of instructions.
+* <b>[3 pts]</b> Let them roll the dice once to either instantly win (7 or  11), instantly win (2, 3, or 12), or establish the "goal" amount (anything other than 2, 3, 7, 11, or 12).
+* <b>[4 pts]</b> Let them keep rolling until they win or lose.
+* <b>[1 pts]</b> When the game is over, display whether they won or lost, and a link to let them start over.
 
 Good luck!
