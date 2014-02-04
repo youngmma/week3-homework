@@ -1,0 +1,7 @@
+<h1>Dice Game</h1>
+<hr>
+
+<%= image_tag "d0#{@die1}.png" %> <%=image_tag "d0#{@die2}.png" %>
+<h2>Your goal is now <%= @goalParam %>.</h2>
+<h3>Now try to get <%= @goalParam %> again before you roll a 7. </h3>
+<%= button_to "Roll the dice", {action: "play", :rolled => @rollAgain, :goal => @goalParam}, {:class => "button"} %>

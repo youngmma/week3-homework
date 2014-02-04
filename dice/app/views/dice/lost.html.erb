@@ -1,0 +1,6 @@
+<h1>Dice Game</h1>
+<hr>
+
+<%= image_tag "d0#{@die1}.png" %> <%=image_tag "d0#{@die2}.png" %>
+<h2>YOU LOSE.</h2>
+<%= button_to "Start Over", {action: "dices"}, {:class => "button"} %>

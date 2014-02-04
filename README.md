@@ -47,6 +47,8 @@ Use the following urls for photos of the dice:
 
 When you first try to run `rails server`, you may need to `bundle install`.
 
+http://localhost:3000/poker?number=150
+
 It's not necessary to recreate the button graphics. Links are
 acceptable. You're welcome to style the button with your own CSS or use Bootstrap to implement the styling.
 
